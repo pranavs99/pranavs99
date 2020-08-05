@@ -1,4 +1,4 @@
-### Hello, world! 👋
+### welcome to my Minecraft server, nerds
 
 <!--
 **pranavs99/pranavs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
